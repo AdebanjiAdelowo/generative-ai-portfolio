@@ -1,4 +1,4 @@
-# Welcome to Zomato bot! 🚀🤖
+# Welcome to Food bot! 🚀🤖
 
 Hi there, sharing with you today's special menu.
 Let me know what you would like to order -
